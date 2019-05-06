@@ -8,7 +8,7 @@
 #property strict
 
 #include <Arrays\ArrayObj.mqh>
-#include <Time\TimeChangeDetect.mqh>
+#include "TimeChangeDetect.mqh"
 #include "MarketProfileSingle.mqh"
 
 #define SEC 1
