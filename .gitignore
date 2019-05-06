@@ -1,0 +1,3 @@
+## Ignore MetaTrade compiling files
+*.ex4
+*.ex5
